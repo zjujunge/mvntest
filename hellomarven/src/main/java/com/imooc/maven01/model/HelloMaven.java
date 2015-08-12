@@ -1,7 +1,8 @@
 package com.imooc.maven01.model;
 
-public class HelloMarven {
+public class HelloMaven {
+
     public String sayHello() {
-        return "hello marven";
+        return "hello maven";
     }
 }
